@@ -1,16 +1,14 @@
-### Hi there 👋
+Sejam Bem Vindos  ao nosso perfil 😃
 
-<!--
-**farofarosa/farofarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nossos nomes são Emilly e Arthur
+- No momento estamos estudando no [Alura](https://www.alura.com.br)
+- Estamos nos desenvolvendo na linguagem Java Script
+- Utilizamos esse espaçao para a organizaçaão e  compartilhamento de nossos projetos
 
-Here are some ideas to get you started:
+### você pode entrar em contato conosco  📬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+emilly.barrocal.santos@escola.pr.gov.br
+
+arthur.goncalves.pontes@escola.pr.gov.br
+
+![](https://media.tenor.com/sPukzfaOTUkAAAAM/tangled-flynn.gif)
